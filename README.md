@@ -1,1 +1,2 @@
 # SmaashFX
+FlowStone .fsm binaries
